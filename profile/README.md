@@ -29,6 +29,7 @@ We open up what we can and give away the tools that should just be free. Reposit
 | Project | What it is | Status |
 | --- | --- | --- |
 | **[Angler](https://github.com/tetravn/angler-crawl)** | Local-only search & crawl stack for AI agents | Public |
+| **[Dane](https://github.com/tetravn/dane-pm)** | Read-only portfolio monitor for Jira & OpenProject — it proposes, never writes | MIT · Public |
 | **Orca WAAP** | Self-hosted protection — WAF · DDoS · bot · API | Free binary + docs |
 | **Otter Test** | Internal training & assessment, bring-your-own-AI | MIT · opening soon |
 | **Goby Care** | Warranty & repair-center management | MIT · opening soon |
