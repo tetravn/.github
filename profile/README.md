@@ -16,7 +16,7 @@ Most software asks you to hand your data to someone else's cloud and trust it'll
 
 ### What we do
 
-- **Digital transformation** — a unified digital workplace (eOffice): official-dispatch handling (Decree 30), document management, drag-and-drop approval workflows, HR, and Vietnam-standard digital signing.
+- **Digital transformation** — a unified digital workplace (eOffice): official-dispatch handling (Decree 30), document management, drag-and-drop approval workflows, HRMS integration, and Vietnam-standard digital signing.
 - **Cybersecurity** — self-hostable web/app protection, network security, and monitoring built for on-premise deployment.
 - **Applied AI** — private, local AI for document digitization and internal knowledge.
 
@@ -30,18 +30,18 @@ We open up what we can and give away the tools that should just be free. Reposit
 | --- | --- | --- |
 | **[Angler](https://github.com/tetravn/angler-crawl)** | Local-only search & crawl stack for AI agents | Public |
 | **[Dane](https://github.com/tetravn/dane-pm)** | Read-only portfolio monitor for Jira & OpenProject — it proposes, never writes | MIT · Public |
-| **Orca WAAP** | Self-hosted protection — WAF · DDoS · bot · API | Free binary + docs |
-| **Otter Test** | Internal training & assessment, bring-your-own-AI | MIT · opening soon |
-| **Goby Care** | Warranty & repair-center management | MIT · opening soon |
+| **[Orca WAAP](https://tetra.vn/en/products/orca-waap)** | Self-hosted protection — WAF · DDoS · bot · API | Free binary + docs |
+| **[Otter Test](https://tetra.vn/en/products/otter-test)** | Internal training & assessment, bring-your-own-AI | MIT · opening soon |
+| **[Goby Care](https://tetra.vn/en/products/goby-care)** | Warranty & repair-center management | MIT · opening soon |
 
 ### 🏢 Commercial products
 
 Production software we build, deploy, and support hands-on — explore them at **[tetra.vn](https://tetra.vn)**:
 
-- **Tetra eOffice** — the digital workplace that connects everything, so your team works in one place instead of ten
-- **Molly Reader** — turns paper, scans, and old files into structured data, entirely on-premise
-- **Manta Security** — network security & monitoring you actually own and control
-- **Remora** — a pocket-sized secure router for safe connectivity on the road
+- **[Tetra eOffice](https://tetra.vn/en/products/tetra-eoffice)** — the digital workplace that connects everything, so your team works in one place instead of ten
+- **[Molly Reader](https://tetra.vn/en/products/molly)** — turns paper, scans, and old files into structured data, entirely on-premise
+- **[Manta Security](https://tetra.vn/en/products/manta-security)** — network security & monitoring you actually own and control
+- **[Remora](https://tetra.vn/en/products/remora)** — a pocket-sized secure router for safe connectivity on the road
 
 ---
 
